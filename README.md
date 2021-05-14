@@ -2,4 +2,4 @@
 Sentiment analysis of news headlines using simple transformers
 
 
-Dataset and Code to be uploaded later.
+Dataset and Code to be uploaded later when asked or after acceptance.
